@@ -1,0 +1,12 @@
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\bin\Release\DTO_QLBanHang.dll
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\bin\Release\DTO_QLBanHang.pdb
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csproj.AssemblyReference.cache
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.dll
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.pdb
+C:\Users\admin\Desktop\SOF205_QLBanHang-master\QLBanHang\DTO_QLBanHang\bin\Release\DTO_QLBanHang.dll
+C:\Users\admin\Desktop\SOF205_QLBanHang-master\QLBanHang\DTO_QLBanHang\bin\Release\DTO_QLBanHang.pdb
+C:\Users\admin\Desktop\SOF205_QLBanHang-master\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SOF205_QLBanHang-master\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SOF205_QLBanHang-master\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.dll
+C:\Users\admin\Desktop\SOF205_QLBanHang-master\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.pdb
